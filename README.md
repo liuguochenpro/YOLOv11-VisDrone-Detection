@@ -49,7 +49,8 @@
 
 另外场景的测试：
 场景1：https://github.com/user-attachments/assets/49361d84-7596-4e68-a609-3366489215d9
-场景2：
+
+场景2：https://github.com/user-attachments/assets/06ee8b92-62ca-45af-8be9-7aee923464a1
 
 ## 核心结论
 
